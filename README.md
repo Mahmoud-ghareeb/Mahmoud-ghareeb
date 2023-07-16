@@ -5,7 +5,7 @@
 
 1.01<sup>365</sup> = 37.8
    
-0.99<sup>365</sup> = 0.03
+1.00<sup>365</sup> = 1.00
 - 🔭 Currently, I'm a machine learning engineer.
 - 💬 Hobbies:
   - Linux.
