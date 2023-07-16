@@ -10,7 +10,7 @@
 - 💬 Hobbies:
   - Linux.
   - Chess.
-  - Problem Solving, play with me [codingame](https://www.codingame.com/profile/62b7e061006a319a700c3bc10bd0136d2387783)
+  - Problem Solving, on a next level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)
 - Skills : 
   - I don't have any.
 
