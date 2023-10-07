@@ -1,8 +1,8 @@
-### it's me Mahmoud 👋
+### It's me Mahmoud 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AYehia0&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🔭 Currently, I'm a machine learning engineer.
+- 🔭 Currently, I'm a Machine Learning Engineer.
 
 - Skills : 
   - Natural Language processing.
@@ -15,7 +15,7 @@
 - 💬 Hobbies:
   - Linux.
   - Chess.
-  - Problem Solving, on a next level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)    
+  - Problem-Solving, on a next-level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)    
 
 ### Github Stats
 <a>
