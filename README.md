@@ -1,9 +1,6 @@
 ### it's me Mahmoud 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AYehia0&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-1.01<sup>365</sup> = 37.8
-   
-1.00<sup>365</sup> = 1.00
 - 🔭 Currently, I'm a machine learning engineer.
 - 💬 Hobbies:
   - Linux.
