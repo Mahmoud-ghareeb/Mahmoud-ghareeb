@@ -3,10 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AYehia0&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 Currently, I'm a machine learning engineer.
-- 💬 Hobbies:
-  - Linux.
-  - Chess.
-  - Problem Solving, on a next level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)
+
 - Skills : 
   - Natural Language processing.
   - Computer Vision
@@ -14,7 +11,11 @@
   - Model Deployment
   - Data Preprocessing
   - Problem Solving
-    
+  
+- 💬 Hobbies:
+  - Linux.
+  - Chess.
+  - Problem Solving, on a next level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)    
 
 ### Github Stats
 <a>
