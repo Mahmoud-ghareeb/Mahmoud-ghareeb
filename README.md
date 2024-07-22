@@ -1,6 +1,7 @@
 ### It's me Mahmoud 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AYehia0&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+![](https://komarev.com/ghpvc/?username=Mahmoud-ghareeb&color=green)
 
 - 🔭 Currently, I'm a Machine Learning Engineer.
 
