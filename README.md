@@ -21,7 +21,7 @@
 ### Github Stats
 <a>
 
-  ![](https://github.com/Mahmoud-ghareeb/blob/master/generated/overview.svg)
-  ![](https://github.com/Mahmoud-ghareeb/blob/master/generated/languages.svg)
+  ![](https://github.com/Mahmoud-ghareeb/Mahmoud-ghareeb/blob/master/generated/overview.svg)
+  ![](https://github.com/Mahmoud-ghareeb/Mahmoud-ghareeb/blob/master/generated/languages.svg)
  
 </a>
