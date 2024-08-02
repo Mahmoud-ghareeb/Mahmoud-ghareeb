@@ -5,12 +5,12 @@
 
 - 🔭 Currently, I'm a Machine Learning Engineer.
 
-- Skills : 
+- Skills :
+  - TTS (Text To Speech)
+  - ASR (Automatic Speech Recognition)
   - Natural Language processing.
   - Computer Vision
   - Generative AI
-  - Model Deployment
-  - Data Preprocessing
   - Problem Solving
   
 - 💬 Hobbies:
@@ -19,9 +19,6 @@
   - Problem-Solving, on a next-level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)    
 
 ### Github Stats
-<a>
 
-  ![](https://github.com/Mahmoud-ghareeb/Mahmoud-ghareeb/blob/master/generated/overview.svg)
-  ![](https://github.com/Mahmoud-ghareeb/Mahmoud-ghareeb/blob/master/generated/languages.svg)
- 
-</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-ghareeb&theme=dark" alt="GitHub Streak" /></a>
+
