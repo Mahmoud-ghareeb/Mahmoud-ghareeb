@@ -1,8 +1,5 @@
 
 <div id="header" align="center">
-  <h1>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJ6ZDRiMmUzZHR2dndwbjN0NXJqMWxmdTZjYWtoZjY0eXFodHE0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mahmoudghareeb1/">
