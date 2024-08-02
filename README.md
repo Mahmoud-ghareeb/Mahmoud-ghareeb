@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
   <h1>
-      Hey There
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJ6ZDRiMmUzZHR2dndwbjN0NXJqMWxmdTZjYWtoZjY0eXFodHE0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
@@ -16,21 +15,18 @@
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-ghareeb&color=green" />
 </div>
 
-- 🔭 Currently, I'm a Machine Learning Engineer.
+Hi 👋 My name is Mahmoud Ghareeb
+================================
 
-- Skills :
-  - TTS (Text To Speech)
-  - ASR (Automatic Speech Recognition)
-  - Natural Language processing.
-  - Computer Vision
-  - Generative AI
-  - Problem Solving
-  
-- 💬 Hobbies:
-  - Linux.
-  - Chess.
-  - Problem-Solving, on a next-level streak [leetcode](https://leetcode.com/mahmoudghareeb11111/)    
+Machine Learning Engineer
+-------------------------
 
+I am working on projects in \[TTS, ASR, VC, Computer Vision, NLP\] Using \[Pytorch, Tensorflow\] with \[Python, C++, Cuda\]
+
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [mahmoudghareeb11111@gmail.com](mailto:mahmoudghareeb11111@gmail.com)
+* 🧠  I'm learning C++, Deep Learing
+* 🤝  I'm open to collaborating on Deep Learning projects
 ### Github Stats
 
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-ghareeb&theme=dark" alt="GitHub Streak" /></a>
