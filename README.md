@@ -26,7 +26,10 @@ I am working on projects in \[TTS, ASR, VC, Computer Vision, NLP\] Using \[Pytor
 * 🤝  I'm open to collaborating on Deep Learning projects
 ### Github Stats
 
+<div align="center">
+
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-ghareeb&theme=dark" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-ghareeb&layout=compact&theme=vision-friendly-dark)](https://github.com/Mahmoud-ghareeb/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-ghareeb&layout=compact&theme=vision-friendly-dark)](https://github.com/Mahmoud-ghareeb/github-readme-stats)
 
+</div>
