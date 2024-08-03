@@ -18,7 +18,7 @@ Hi 👋 My name is Mahmoud Ghareeb
 Machine Learning Engineer
 -------------------------
 
-I am working on projects in \[TTS, ASR, VC, Computer Vision, NLP\] Using \[Pytorch, Tensorflow\] with \[Python, C++, Cuda\]
+I am working on projects in \[TTS, ASR, VC, LibSyncing, Computer Vision, NLP\] Using \[Pytorch, Tensorflow\] with \[Python, C++, Cuda\]
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudghareeb11111@gmail.com](mailto:mahmoudghareeb11111@gmail.com)
