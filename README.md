@@ -22,7 +22,7 @@ I am working on projects in \[TTS, ASR, VC, Computer Vision, NLP\] Using \[Pytor
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudghareeb11111@gmail.com](mailto:mahmoudghareeb11111@gmail.com)
-* 🧠  I'm learning C++, Deep Learing
+* 🧠  I'm learning C++, Cuda, Deep Learing
 * 🤝  I'm open to collaborating on Deep Learning projects
 ### Github Stats
 
