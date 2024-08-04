@@ -21,6 +21,7 @@ Machine Learning Engineer
 I am working on projects in \[TTS, ASR, VC, LibSyncing, Computer Vision, NLP\] Using \[Pytorch, Tensorflow\] with \[Python, C++, Cuda\]
 
 * 🌍  I'm based in Egypt
+* 📚  Master of Computer Engineering Candidate at Ain Shams University
 * ✉️  You can contact me at [mahmoudghareeb11111@gmail.com](mailto:mahmoudghareeb11111@gmail.com)
 * 🧠  I'm learning C++, Cuda, Deep Learing
 * 🤝  I'm open to collaborating on Deep Learning projects
