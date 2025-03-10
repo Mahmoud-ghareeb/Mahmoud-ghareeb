@@ -22,7 +22,7 @@ I am working on projects in \[TTS, ASR, VC, LibSyncing, Computer Vision, NLP\] U
 
 * 🌍  I'm based in Egypt
 * 📚  Master of Computer Engineering Candidate at Ain Shams University
-* 🧠  I'm learning C++, Cuda, Deep Learing
+* 🧠  I'm learning C/C++, Cuda, Deep Learing
 * 🤝  I'm open to collaborating on Deep Learning projects
 * ✉️  You can contact me at [mahmoudghareeb11111@gmail.com](mailto:mahmoudghareeb11111@gmail.com)
   
